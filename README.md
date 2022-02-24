@@ -1,7 +1,7 @@
 # GDSC_Backend Team
 
 
-## Introduction
+## Self Introduction
 
 * Name: Alif Izzuddin Ramadhan
 * Major: Informatics Engineering
